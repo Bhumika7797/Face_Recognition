@@ -10,7 +10,6 @@ A powerful face recognition system using cutting-edge techniques like **KNN**, *
 - [🚀 Installation](#-installation)
 - [✨ Features](#-features)
 - [🛠️ Usage](#-usage)
-- [📁 Project Structure](#-project-structure)
 - [📦 Dependencies](#-dependencies)
 - [🤝 Contributing](#-contributing)
 - [📝 License](#-license)
@@ -55,4 +54,7 @@ Pull requests are welcome! Fork the repo and submit a PR 🙌
 
 ## 📝 License
 This project is licensed under the MIT License.
+
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/2300dfab-2885-42ca-bc8e-86008ba4c5b5)
 
